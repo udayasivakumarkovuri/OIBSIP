@@ -4,8 +4,8 @@ Description:
 A temperature converter web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 Technologies Used: 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 
