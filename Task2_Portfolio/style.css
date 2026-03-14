@@ -1,0 +1,64 @@
+body{
+font-family: Arial;
+margin:0;
+}
+
+header{
+background:linear-gradient(to right,#6a11cb,#2575fc);
+color:white;
+text-align:center;
+padding:50px;
+}
+
+header img{
+width:150px;
+border-radius:50%;
+margin-bottom:10px;
+}
+
+nav{
+background:#333;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-size:18px;
+}
+
+nav a:hover{
+color:#2575fc;
+}
+
+section{
+padding:40px;
+text-align:center;
+}
+
+.skills span{
+background:#2575fc;
+color:white;
+padding:10px 15px;
+margin:10px;
+display:inline-block;
+border-radius:5px;
+}
+
+.project-card{
+background:#f4f4f4;
+padding:20px;
+margin:auto;
+width:300px;
+border-radius:10px;
+box-shadow:0px 5px 10px rgba(0,0,0,0.2);
+}
+
+footer{
+background:#333;
+color:white;
+text-align:center;
+padding:15px;
+}
