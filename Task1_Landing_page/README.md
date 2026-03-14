@@ -1,6 +1,8 @@
 **Task 1 – Landing Page**
 
-Description: A responsive landing page designed using HTML and CSS. This project focuses on layout design, sections, headers, footers, and styling using CSS.
+Description:
+A responsive landing page designed using HTML and CSS. This project focuses on layout design, sections, headers, footers, and styling using CSS.
+
 Technologies Used:
 HTML
 CSS
